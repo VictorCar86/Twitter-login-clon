@@ -1,0 +1,24 @@
+.login-container {
+    max-width: 600px;
+    margin: 0 auto;
+}
+.login-container h1 {
+    font-size: 6.1rem;
+    line-height: 80px;
+    margin-top: 48px;
+    margin-bottom: 45px;
+    letter-spacing: -1.2px;
+}
+.login-container h3 {
+    font-size: 2.9rem;
+    margin-bottom: 30px;
+}
+.apple-button {
+    margin-top: 11px;
+}
+.login-container h5 {
+    margin-top: 65px;
+}
+.sign-in-button {
+    margin-top: 19px;
+}

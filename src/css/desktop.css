@@ -1,0 +1,23 @@
+main {
+    display: flex;
+    flex-flow: row-reverse;
+}
+.login-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 83.5%;
+    height: 95.4vh;
+}
+.login-container {
+    margin: 0;
+}
+.twitter-main-image {
+    width: 60%;
+}
+.twitter-main-image ._background-logo {
+    height: 100%;
+}
+.twitter-main-image ._twitter-logo {
+    height: 30vh;
+}
